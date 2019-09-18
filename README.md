@@ -10,12 +10,13 @@ axios的封装:\
     3.将http 挂载在vue实例上（全局可访问）\
     4.改造时，async+await
     
-封装拓展\
+封装拓展:\
     1.可以给请求添加统一的loading\
     2.在header添加token鉴权(base.vue)\
     3.添加统一错误处理（如：登录超时）
 
-接口下载本地后解压，在axios_node_api-master下cmd\
-npm install \
-node index.js\
+接口使用：
+1.接口下载本地后解压，在axios_node_api-master下cmd\
+2.npm install \
+3.node index.js\
 本地服务启动...

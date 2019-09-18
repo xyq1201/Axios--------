@@ -1,8 +1,9 @@
 # Axios--联系人列表
 
 vue-cli3+axios\
-vant（vue组件库\
-对axios的应用（get,post,put,delete请求）
+vant(vue组件库)\
+
+axios的应用（get,post,put,delete请求）
 
 axios的封装:\
     1.API（url）进行统一管理（将所有url放在一个js文件内——ContactApi.js）\

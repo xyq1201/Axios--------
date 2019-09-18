@@ -3,7 +3,8 @@
 vue-cli3+axios\
 vant(vue组件库)\
 
-axios的应用（get,post,put,delete请求）
+axios的应用（get,post,put,delete请求）\
+码内有注解~
 
 axios的封装:\
     1.API（url）进行统一管理（将所有url放在一个js文件内——ContactApi.js）\
@@ -21,3 +22,4 @@ axios的封装:\
 2.npm install \
 3.node index.js\
 本地服务启动...
+

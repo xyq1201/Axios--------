@@ -15,7 +15,7 @@ axios的封装:\
     2.在header添加token鉴权(base.vue)\
     3.添加统一错误处理（如：登录超时）
 
-接口使用：
+接口使用：\
 1.接口下载本地后解压，在axios_node_api-master下cmd\
 2.npm install \
 3.node index.js\
